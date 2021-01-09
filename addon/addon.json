@@ -1,0 +1,16 @@
+{
+    "description": "LoneWolfies Police Package Props, turned into Photon components.\n\nNo, these aren't vehicles, they're components. You turn them into vehicles. No, they won't work without Photon.\n\n[b]Components[/b]\n[img]https://i.doctor-internet.dev/h7FTmBtAhwwK.png[/img]",
+    "ignore": [
+        "*.psd",
+        "*.vcproj",
+        "*.svn*"
+    ],
+    "logo": "E:/Workshop Packer/Lonewolfies Police Package/Media/logo.jpg",
+    "tags": [
+        "roleplay",
+        "realism"
+    ],
+    "title": "[Photon] LoneWolfies Police Package",
+    "type": "vehicle",
+    "workshopid": 1795544005.0
+}
